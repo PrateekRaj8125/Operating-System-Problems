@@ -1,3 +1,7 @@
+/*Write a C program to implement Banker’s Algorithm for deadlock avoidance and determine whether the system is in a safe state.
+Display the safe sequence or indicate deadlock.
+*/
+
 #include<stdio.h>
 int main(){
     int r,n;

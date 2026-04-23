@@ -1,3 +1,6 @@
+/*Write a C program to implement Multiprogramming with Fixed Tasks (MFT) memory allocation.
+Allocate memory to processes using a suitable allocation strategy and display remaining memory.*/
+
 #include <stdio.h>
 
 void multiprogrammingMFT() {

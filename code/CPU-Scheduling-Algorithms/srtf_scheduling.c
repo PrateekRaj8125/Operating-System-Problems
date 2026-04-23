@@ -1,3 +1,4 @@
+/*Write a C program to implement Shortest Remaining Time First (SRTF) (preemptive scheduling) and compute CT, TAT, WT, and averages.*/
 #include <stdio.h>
 void shortestRemainingTimeFirst() {
     int n;

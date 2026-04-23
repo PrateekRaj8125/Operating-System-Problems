@@ -1,3 +1,5 @@
+/*Write a C program to implement Highest Response Ratio Next (HRRN) scheduling algorithm and calculate CT, TAT, WT, and averages.*/
+
 #include <stdio.h>
 
 void highestResponseRatioNext() {

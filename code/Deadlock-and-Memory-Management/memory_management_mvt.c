@@ -1,3 +1,10 @@
+/*Write a C program to implement Multiprogramming with Variable Tasks (MVT) memory allocation.
+Provide options to:
+
+Add process
+Remove process
+Display memory status*/
+
 #include <stdio.h>
 
 void multiprogrammingMVT() {

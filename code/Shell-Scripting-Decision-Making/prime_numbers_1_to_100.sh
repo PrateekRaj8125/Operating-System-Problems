@@ -1,3 +1,5 @@
+# Write a shell script to print all prime numbers from 1 to 100 using loops and conditional checks.
+
 #!/bin/bash
 for(( i=1; i<=100; i++))
 do

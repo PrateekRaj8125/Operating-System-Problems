@@ -1,3 +1,5 @@
+/*Write a C program to implement Round Robin Scheduling algorithm with a given time quantum and compute CT, TAT, WT, and averages.*/
+
 #include <stdio.h>
 
 void roundRobinScheduling() {

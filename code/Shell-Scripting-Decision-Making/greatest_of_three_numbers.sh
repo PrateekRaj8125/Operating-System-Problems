@@ -1,3 +1,5 @@
+# Write a shell script to find the greatest among three numbers entered by the user using conditional statements.
+
 #!/bin/bash
 echo "Enter 1st No.:"
 read n1 -r

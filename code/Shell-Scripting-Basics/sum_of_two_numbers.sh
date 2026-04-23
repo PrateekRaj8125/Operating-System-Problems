@@ -1,3 +1,5 @@
+# Write a shell script to input two numbers and display their sum.
+
 #!/bin/bash
 echo "Enter First No.:"
 read a -r

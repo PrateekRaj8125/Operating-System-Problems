@@ -1,3 +1,10 @@
+/*Write a C program to sort processes based on arrival time and calculate:
+
+Completion Time (CT)
+Turnaround Time (TAT)
+Waiting Time (WT)
+Also compute average TAT and WT.
+*/
 #include<stdio.h>
 void main(){
     int n;

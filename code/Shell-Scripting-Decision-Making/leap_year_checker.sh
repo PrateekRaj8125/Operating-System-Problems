@@ -1,3 +1,5 @@
+# Write a shell script to check whether a given year is a leap year or not.
+
 #!/bin/bash
 echo "Enter Year:"
 read y -r

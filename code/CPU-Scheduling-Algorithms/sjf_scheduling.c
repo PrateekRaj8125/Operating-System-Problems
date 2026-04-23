@@ -1,3 +1,4 @@
+/*Write a C program to implement Shortest Job First (SJF) scheduling algorithm and calculate CT, TAT, WT, and their averages.*/
 #include <stdio.h>
 #include <stdbool.h>
 
