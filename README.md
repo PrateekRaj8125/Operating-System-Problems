@@ -28,10 +28,10 @@ It is designed as a complete learning resource for Operating Systems, covering:
 
 | Level | Folder Name | Concepts Covered |
 | --- | --- | --- |
-| 1. | [Shell Scripting Basics]() | Input/Output, basic scripts, arithmetic |
-| 2. | [Shell Scripting Decision Making]() | Conditions, loops, logic building |
-| 3. | [CPU Scheduling Algorithms]() | FCFS, SJF, SRTF, HRRN, Round Robin |
-| 4. | [Deadlock and Memory Management]() | Banker’s Algorithm, MFT, MVT |
+| 1. | [Shell Scripting Basics](https://github.com/PrateekRaj8125/Operating-System-Problems/tree/main/code/Shell-Scripting-Basics) | Input/Output, basic scripts, arithmetic |
+| 2. | [Shell Scripting Decision Making](https://github.com/PrateekRaj8125/Operating-System-Problems/tree/main/code/Shell-Scripting-Decision-Making) | Conditions, loops, logic building |
+| 3. | [CPU Scheduling Algorithms](https://github.com/PrateekRaj8125/Operating-System-Problems/tree/main/code/CPU-Scheduling-Algorithms) | FCFS, SJF, SRTF, HRRN, Round Robin |
+| 4. | [Deadlock and Memory Management](https://github.com/PrateekRaj8125/Operating-System-Problems/tree/main/code/Deadlock-and-Memory-Management) | Banker’s Algorithm, MFT, MVT |
 
 ---
 
@@ -116,7 +116,7 @@ Shell Basics → Decision Making → CPU Scheduling → Deadlock → Memory Mana
 
 ## 📜 License
 
-This project is open-source and available under the [MIT License]().
+This project is open-source and available under the [MIT License](https://github.com/PrateekRaj8125/Operating-System-Problems/blob/main/LICENSE.md).
 
 ---
 

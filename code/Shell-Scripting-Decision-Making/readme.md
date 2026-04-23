@@ -17,9 +17,9 @@ This folder contains shell scripting programs focused on **decision-making and c
 
 | S. No. | Questions | File Name |
 | --- | --- | --- |
-| 1. | Write a shell script to find the greatest among three numbers. | [greatest_of_three_numbers.sh]() |
-| 2. | Write a shell script to check whether a year is a leap year. | [leap_year_checker.sh]() |
-| 3. | Write a shell script to print prime numbers from 1 to 100. | [prime_numbers_1_to_100.sh]() |
+| 1. | Write a shell script to find the greatest among three numbers. | [greatest_of_three_numbers.sh](https://github.com/PrateekRaj8125/Operating-System-Problems/blob/main/code/Shell-Scripting-Decision-Making/greatest_of_three_numbers.sh) |
+| 2. | Write a shell script to check whether a year is a leap year. | [leap_year_checker.sh](https://github.com/PrateekRaj8125/Operating-System-Problems/blob/main/code/Shell-Scripting-Decision-Making/leap_year_checker.sh) |
+| 3. | Write a shell script to print prime numbers from 1 to 100. | [prime_numbers_1_to_100.sh](https://github.com/PrateekRaj8125/Operating-System-Problems/blob/main/code/Shell-Scripting-Decision-Making/prime_numbers_1_to_100.sh) |
 
 ---
 

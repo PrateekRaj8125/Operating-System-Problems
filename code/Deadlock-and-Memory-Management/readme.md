@@ -17,9 +17,9 @@ This folder contains C programs related to **deadlock handling and memory manage
 
 | S. No. | Questions | File Name |
 | --- | --- | --- |
-| 1. | Write a program to implement Banker’s Algorithm. | [bankers_algorithm.c]() |
-| 2. | Write a program to implement MFT memory allocation. | [memory_management_mft.c]() |
-| 3. | Write a program to implement MVT memory allocation. | [memory_management_mvt.c]() |
+| 1. | Write a program to implement Banker’s Algorithm. | [bankers_algorithm.c](https://github.com/PrateekRaj8125/Operating-System-Problems/blob/main/code/Deadlock-and-Memory-Management/bankers_algorithm.c) |
+| 2. | Write a program to implement MFT memory allocation. | [memory_management_mft.c](https://github.com/PrateekRaj8125/Operating-System-Problems/blob/main/code/Deadlock-and-Memory-Management/memory_management_mft.c) |
+| 3. | Write a program to implement MVT memory allocation. | [memory_management_mvt.c](https://github.com/PrateekRaj8125/Operating-System-Problems/blob/main/code/Deadlock-and-Memory-Management/memory_management_mvt.c) |
 
 ---
 

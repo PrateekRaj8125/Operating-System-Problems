@@ -17,10 +17,10 @@ This folder contains basic shell scripting programs designed to introduce fundam
 
 | S. No. | Questions | File Name |
 | --- | --- | --- |
-| 1. | Write a shell script to print "Hello World". | [hello_world.sh]() |
-| 2. | Write a shell script to accept and display user name. | [read_and_display_name.sh]() |
-| 3. | Write a shell script to find sum of two numbers. | [sum_of_two_numbers.sh]() |
-| 4. | Write a shell script to calculate grade based on percentage. | [grade_calculator.sh]() |
+| 1. | Write a shell script to print "Hello World". | [hello_world.sh](https://github.com/PrateekRaj8125/Operating-System-Problems/blob/main/code/Shell-Scripting-Basics/hello_world.sh) |
+| 2. | Write a shell script to accept and display user name. | [read_and_display_name.sh](https://github.com/PrateekRaj8125/Operating-System-Problems/blob/main/code/Shell-Scripting-Basics/read_and_display_name.sh) |
+| 3. | Write a shell script to find sum of two numbers. | [sum_of_two_numbers.sh](https://github.com/PrateekRaj8125/Operating-System-Problems/blob/main/code/Shell-Scripting-Basics/sum_of_two_numbers.sh) |
+| 4. | Write a shell script to calculate grade based on percentage. | [grade_calculator.sh](https://github.com/PrateekRaj8125/Operating-System-Problems/blob/main/code/Shell-Scripting-Basics/grade_calculator.sh) |
 
 ---
 
